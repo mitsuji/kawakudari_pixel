@@ -56,6 +56,7 @@ func main() {
 ## Prerequisite
 
 * This project using programming language Go, so you need [Go](https://golang.org/doc/install) build tool properly installd to run example code.
+* In Windows enviroment, you might need [install and configure MSYS2](https://github.com/faiface/pixel/wiki/Building-Pixel-on-Windows) to build and run this project.
 
 
 ## How to use
